@@ -2,6 +2,6 @@
 
 ### Used below methods to create the page:
 
-- HTML
-- Flex
-- Grid
+1. HTML
+2. Flex
+3. Grid
